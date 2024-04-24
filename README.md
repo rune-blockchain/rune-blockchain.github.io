@@ -6,6 +6,6 @@
 
 - 📚 Solidity、Web3.js、Ether.js
 
-- 📡 Rust、Lua、Python、Nodejs、PHP、C
+- 📡 Rust、Python、Nodejs
 
 - 🌱 推特: <a href="https://twitter.com/rune_blockchain" target="_blank">符文区块链</a>
