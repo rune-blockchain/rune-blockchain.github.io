@@ -8,6 +8,4 @@
 
 - 📡 Rust、Lua、Python、Nodejs、PHP、C
 
-- 💷 CodeMoss AI Founder AND COO
-
-- 🌱 推特: <a href="https://twitter.com/rune_blockchain" target="_blank">https://twitter.com/rune_blockchain</a>
+- 🌱 推特: <a href="https://twitter.com/rune_blockchain" target="_blank">符文区块链</a>
